@@ -15,5 +15,5 @@ php -S localhost:8000
 ###### 3) Go to the browser and write the url below. You can see the output the client workinng with external WSDL and get information for checkVat.
 
 ````
-php -S localhost:8000/soap-client-external.php
+http://localhost:8000/soap-client-external.php
 ````
